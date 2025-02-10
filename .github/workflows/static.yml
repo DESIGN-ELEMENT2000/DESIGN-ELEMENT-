@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Element - Interior Design</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Design Element</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Transforming Spaces, Enhancing Lives</h2>
+        <p>We specialize in innovative interior design solutions.</p>
+        <a href="contact.html" class="btn">Get a Free Consultation</a>
+    </section>
+
+    <section class="services">
+        <h2>Our Services</h2>
+        <div class="service">
+            <h3>Interior Design</h3>
+            <p>Customized wardrobes, modular kitchens, and more.</p>
+        </div>
+        <div class="service">
+            <h3>3D Walkthroughs</h3>
+            <p>Realistic visualizations for your dream home.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Design Element. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
